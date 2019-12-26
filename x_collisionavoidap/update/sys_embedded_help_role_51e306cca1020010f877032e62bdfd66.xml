@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_dd_collisionavoidapp01_scriptedit" name="sn_dd_collisionavoidapp01_scriptedit">5de306cca1020010f877032e62bdfd63</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-26 06:40:17</sys_created_on>
+        <sys_id>51e306cca1020010f877032e62bdfd66</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5de306cca1020010f877032e62bdfd63</sys_name>
+        <sys_package display_value="collisionavoidapp01" source="x_collisionavoidap">428e3dc8a1020010f877032e62bdfdf6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="collisionavoidapp01">428e3dc8a1020010f877032e62bdfdf6</sys_scope>
+        <sys_update_name>sys_embedded_help_role_51e306cca1020010f877032e62bdfd66</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-26 06:40:17</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
